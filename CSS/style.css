@@ -1,0 +1,74 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+body{
+    position: fixed;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.tag{
+
+    /* text-align: center;
+    align-items: center;
+    
+ display: block; 
+  padding-left:300px;
+  padding-top: 100px;
+    padding-right:750px; */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+} 
+.person{
+    /* text-align: center;
+    align-items: center;
+    
+ display: block; 
+  padding-left:30%;
+  padding-top: 10%;
+    padding-right:10%;
+    padding-bottom: 10%; */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30%; 
+   
+
+}
+
+.Profile{
+    font-size: 7pt;
+    
+    font-family: cursive;
+    color: white;
+    top: 61%;
+    left: 50%;
+    position: fixed;
+    /* top: 61%;
+    left: 50%; */
+    transform: translate(-50%, -50%);
+    letter-spacing: .15pt;
+}
+
+.domain{
+
+    font-size: 12pt;
+    
+    font-family:  'Courier New', Courier, monospace;
+    color: white;
+    top: 65%;
+    left: 50%;
+    position: fixed;
+    /* top: 61%;
+    left: 50%; */
+    transform: translate(-50%, -50%);
+
+}
